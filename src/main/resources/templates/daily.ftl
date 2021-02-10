@@ -111,7 +111,7 @@
 
 </html>
 
-<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
 <script type="text/javascript">
 
     //回显消息 的 数据
